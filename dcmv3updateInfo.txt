@@ -1,0 +1,9 @@
+Between dcm4che2 and dcm4che3 there are some key differences.
+To supplement in-code documentation, this file explains in detail what changed and why.
+
+Major Function Differences:
+
+Per-file Differences:
+
+scanfile_mldcm - Creates Attributes object rather than Dicom Object
+
