@@ -26,7 +26,8 @@ Major Function Differences:
     to turn null result into zero.
 
     countItems() ---> size()
-    getDicomObject() ---> get()
+    getDicomObject(i) ---> get(i)
+    getDicomObject() ---> getParent()
 
     3) putNull replaced with setNull. If a new sequence was to be made, there
     was no need to use setNull, so it was avoided.
