@@ -75,12 +75,6 @@ Sequences in Export - Replaced ml2dcm_Element, and generated new sequences rathe
 
 ISSUES
 
-1) Date issue still persists. Can't check if date function is done correctly. 
-Correct String value is stored, but unsure about date value.
-
-2) Remove issue still persists in export_sequence. 
-
-3) Center and width in viewer always seem to start at center:0 width:300
-Otherwise values are correct, but i am unsure how to remedy this.
+1) Date issue still persists. Can't check if date function is done correctly. Correc
 
 
